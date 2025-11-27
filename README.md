@@ -1,0 +1,1 @@
+Extiende el sistema académico creando funcionalidades como: sistema de matrícula con validaciones, cálculo de GPA universitario, predicción de rendimiento usando algoritmos simples, y generación de reportes PDF simulados. Implementa operaciones inmutables para todas las transformaciones de datos.
